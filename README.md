@@ -17,6 +17,7 @@ One-stop place for all the employees for formal work.
 
 # Folders Details 
 **1) HRect Designs:** The folder contains all the UI designs for every operation.
+
 **2) HRect Work Flow:** The folder contains all the work flow designs for every operation.
 
 # THE PROJECT IS STILL IN THE DEVELOPMENT PHASE 
